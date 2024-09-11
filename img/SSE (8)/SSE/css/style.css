@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+   background-color: white;
+    height: 1500px;
+}
+
+.d1{
+background-color:#e2cdbe;
+width: 85%;
+height:50px;
+margin: auto;
+margin-left: 60px;
+margin-right: 60px;
+position: fixed;
+opacity: 0.7;
+top: 0;
+float: right;
+
+}
+.kl{
+    list-style: none;
+    float:right;
+    margin-right: 80px;
+}
+.kl li{
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 15px;
+    background-color: white;
+    width: 80px;
+    text-align: center;
+}
+.kl li a{
+    text-decoration: none;
+    color: rgb(16, 15, 15);
+}
+.kl li:hover{
+    background-color: #bdaea3;
+}
+ 
+
+.ic{
+    height: 40px;
+    margin-left: 80px;
+    float: left;
+}
+.d2{
+    text-align: center;
+  font-size: large;
+}
+.ul li:hover{
+    background-color:#bfb2a8;
+}
+.pp{
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 65px;
+}
+.hr{
+  color: black;
+  text-align: center;
+ border: 1px solid black;
+ width: 3%;
+ margin-left: 680px;
+ margin-top: 10px;
+ margin-right: 20px;
+
+}
+.parent{
+   overflow: hidden;
+    text-align: center;
+    height: 600px;
+    width:85%;
+background-color:#FFF8F3;
+margin: auto;
+margin-top: 30px;
+margin-left: 55px;
+margin-right: 100px;
+
+
+
+
+
+}
+.c1{
+    border: 1px solid #e2cdbe;
+    margin-top: 60px;
+    margin-left: 150px;
+    float: left;
+width:20%;
+height: 500px;
+
+}
+.c2{
+    border: 1px solid #e2cdbe;
+    margin-top: 60px;
+    margin-left: 150px;
+    float: left
+    
+;
+width:20%;
+height: 500px;
+z-index: 1;
+
+}
+.c3{
+    border: 1px solid #e2cdbe;
+    margin-top: 60px;
+    margin-left:150px;
+    float: left;
+
+width:20%;
+height: 500px;
+z-index: 1;
+
+}
+.c11{
+    margin-top: 20px;
+    text-align: center;
+
+}
+.ch1{
+   border: 1px solid #e2cdbe;
+    width: 20%;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.c{
+    width:90px;
+    height: 90px;
+    border-radius: 50px;
+    text-align: center;
+    border: 2px solid black;
+    margin: auto;
+}
+.ch11{
+    border: 2px solid #e2cdbe;
+    width: 80%;
+    margin-left: 20px;
+   
+}
+.ch111{
+    border: 1px solid #e2cdbe;
+    width: 80%;
+    margin-left: 20px;
+  
+}
+.bc1{
+    color: black;
+     margin-right: 80px;
+     margin-left: 70px;
+     width: 100px;
+     height: 30px;
+     background-color: white;
+     text-align: center;
+     border: 1px solid black;
+     width: 100px;
+     height: 40px;
+  
+}
+.bc1:hover{
+    background-color: #bdaea3;
+}
+
+  
+
